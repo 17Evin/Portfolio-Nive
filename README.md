@@ -54,9 +54,6 @@ service-details.html
    
 3. Open `index.html` in any browser.
 
-📸 Screenshots
-> (You can add screenshots of your Home page, Portfolio section, and individual project pages.)
-
 📜 License
 This project is created for educational and personal branding purposes.  
 Feel free to customize it for your own portfolio!
